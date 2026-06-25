@@ -17,5 +17,11 @@
     - Understanding Local Repositories
     - Understanding Remote Repositories
 
+- [Creating Your First Repository] (#Tutorial)
+    - Creating a Local Repository
+    - The .git Folder
+    - Viewing Hidden Files
+    - Hands-On Guided Activity
+
 - [Git Cheat Sheet] (#CheatSheet)
     - Command Line Control of Git
