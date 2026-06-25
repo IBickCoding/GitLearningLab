@@ -1,0 +1,8 @@
+# Microsoft Word temporary files
+~$*
+
+# Word Backup files
+*.wbk
+
+# Temporary Office files
+~$*
