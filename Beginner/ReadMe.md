@@ -23,5 +23,13 @@
     - Viewing Hidden Files
     - Hands-On Guided Activity
 
+- [Making Commits and Tracking Changes] (#Tutorial)
+    - The Working Directory
+    - The Staging Area
+    - Commits
+    - Full Mental Workflow Order
+    - Hands-On Guided Activity
+    - How Git Tracks Changes Over Time
+
 - [Git Cheat Sheet] (#CheatSheet)
     - Command Line Control of Git
