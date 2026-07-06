@@ -2,6 +2,7 @@
 
 - [Introduction to Version Control and Git] (#Lesson)
     - Version Control vs Source Control
+    - Why Use Git
     - Why Git Matters
     - Benefits of Using Git
     - Basic Git Terminology
@@ -33,3 +34,7 @@
 
 - [Git Cheat Sheet] (#CheatSheet)
     - Command Line Control of Git
+
+- [Git Fundamentals Kahoot] (#Assessment)
+    - Link: https://create.kahoot.it/share/git-version-control-fundamentals/9d15fa52-1ba3-4f37-b3e7-dc549be3c4fe
+    
