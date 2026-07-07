@@ -45,7 +45,8 @@ Learn basic Git usage, command line control of GitBash, and individual workflows
 - Git Commands and Usage
 - Tracking Files
 - Staging Changes
-- Committing, Stashing, and Ignoring files.
+- Committing Changes
+- Remote Repositories
 
 ### Intermediate
 Intended for learners who have a basic understanding of Git commands, everyday Git workflows, and are ready to collaborate with others on projects.
@@ -55,6 +56,9 @@ Intended for learners who have a basic understanding of Git commands, everyday G
 Understand Git internals, complex workflows, and recovery techniques. 
     
 **Topics** 
+- GitHub Essentials
+- Pull --> Add --> Commit --> Push Workflow
+- Stashing and Ignoring files.
 - Personal Access Tokens
 - Rewriting Repository History 
 - Interactive Rebasing 
@@ -83,8 +87,7 @@ Work comfortably on multi-feature projects while collaborating with others.
 - Feature Development 
 - Merging Branches 
 - Resolving Conflicts 
-- Cloning Repositories 
-- Pull --> Add --> Commit --> Push Workflow 
+- Cloning Repositories  
 - Remote Repositories 
 - Pull Requests 
 - Code Reviews 
