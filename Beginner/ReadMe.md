@@ -32,9 +32,18 @@
     - Hands-On Guided Activity
     - How Git Tracks Changes Over Time
 
+- [Remote Repositories] (#Tutorial)
+    - Creating a GitHub Account
+    - Creating a Remote Repository and Linking a Local Repository
+    - Verify Link Between Remote and Local Repositories
+    - Difference Between Local and Remote Respositories
+    - Hands-On Example
+    - Cloning a Remote Repository
+
 - [Git Cheat Sheet] (#CheatSheet)
     - Command Line Control of Git
 
-- [Git Fundamentals Kahoot] (#Assessment)
+- [Git Fundamentals Kahoot] (#Assessment) (#Educators)
     - Link: https://create.kahoot.it/share/git-version-control-fundamentals/9d15fa52-1ba3-4f37-b3e7-dc549be3c4fe
+    (To be used for pre/post assessment by educators to determine comprehension of concepts covered.)
     
