@@ -16,7 +16,7 @@ Let's start by first creating a project folder on our desktop. To do
 this, simply right click on your desktop and hover over the option "New"
 and select folder.
 
-![](./media/media/image1.png){width="3.3901596675415573in"
+![](./media/CreatingYourFirstRepository/media/image1.png){width="3.3901596675415573in"
 height="3.2083333333333335in"}
 
 Name the new folder as GitPractice (with no spaces in the folder name,
@@ -34,7 +34,7 @@ option to click "Open Git Bash Here", go ahead and click it and a
 terminal will appear. If you are on Windows 11, click on the option that
 says "Show More Options" and then you will see the Git Bash option.
 
-![](./media/media/image2.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image2.png){width="6.5in"
 height="3.4965277777777777in"}
 
 In the terminal that appears, you should use the command git init. After
@@ -43,7 +43,7 @@ empty Git repository was created at the file path where your project
 folder is found. Git has now transformed this ordinary folder into a
 repository.
 
-![](./media/media/image3.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image3.png){width="6.5in"
 height="2.941666666666667in"}
 
 ### Step 3: Verify the Repository's Status
@@ -57,7 +57,7 @@ have any files in our project yet.
 
 We now know that Git is actively tracking this directory.
 
-![](./media/media/image4.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image4.png){width="6.5in"
 height="2.861111111111111in"}
 
 ------------------------------------------------------------------------
@@ -88,7 +88,7 @@ To view hidden files and folders, in the project folder select the
 option. I would also suggest showing file name extensions, but this is
 optional.
 
-![](./media/media/image5.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image5.png){width="6.5in"
 height="3.7284722222222224in"}
 
 Once this is done, we can see that our project folder is not completely
@@ -98,14 +98,14 @@ type (i.e. a slightly transparent or faded folder compared to the normal
 folder). Hidden files/folders in windows are also usually named with a
 "." preceding the name of the folder or file.
 
-![](./media/media/image6.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image6.png){width="6.5in"
 height="1.7284722222222222in"}
 
 ## Hands-On Guided Activity
 
 Create the following file structure:
 
-![](./media/media/image7.png){width="2.1770833333333335in"
+![](./media/CreatingYourFirstRepository/media/image7.png){width="2.1770833333333335in"
 height="2.7431266404199475in"}
 
 The "/" at the end of a name like GitPractice denotes that this is a
@@ -133,13 +133,13 @@ After creating these files and folders from the command line, your
 terminal should look something like this and you should be able to see
 the files in the folder now!
 
-![](./media/media/image8.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image8.png){width="6.5in"
 height="3.7631944444444443in"}
 
 Next, run the command git status again. Observe how Git now detects the
 new files found in the project folder!
 
-![](./media/media/image9.png){width="5.990418853893264in"
+![](./media/CreatingYourFirstRepository/media/image9.png){width="5.990418853893264in"
 height="3.8130325896762907in"}
 
 Git now tells us that there are untracked files in the repository. Take
@@ -148,7 +148,7 @@ no files currently within the folder. Until there is something added to
 that folder, we will not be able to detect it. So, add your favorite
 image to the folder using file explorer and rerun the command.
 
-![](./media/media/image10.png){width="6.5in"
+![](./media/CreatingYourFirstRepository/media/image10.png){width="6.5in"
 height="2.8520833333333333in"}
 
 Now we see that the "images/" folder and its contents are being
