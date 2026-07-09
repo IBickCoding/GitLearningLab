@@ -45,6 +45,9 @@
 - [Git Cheat Sheet] (#CheatSheet)
     - Command Line Control of Git
 
+- [Beginner Git Learning Lab Assignment] (#Assignment)
+    - This assignment covers creating a local and remote repository, linking them, making adding/committing/pushing changes, and a knowledge check.
+
 - [Git Fundamentals Kahoot] (#Assessment) (#Educators)
     - Link: https://create.kahoot.it/share/git-version-control-fundamentals/9d15fa52-1ba3-4f37-b3e7-dc549be3c4fe
     - (To be used for pre/post assessment by educators to determine comprehension of concepts covered.)
