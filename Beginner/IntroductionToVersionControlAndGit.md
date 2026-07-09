@@ -28,8 +28,7 @@ You probably shared the project through email, Google Drive, or even a
 USB thumb drive if you are old enough. As each person made changes, the
 file was passed back and forth until the project was complete.
 
-![](./media/IntroductionToVersionControlAndGit/media/image1.jpg){width="2.9142858705161854in"
-height="3.647267060367454in"}
+![](./media/IntroductionToVersionControlAndGit/media/image1.jpg)
 
 To avoid overwriting each other\'s work, you may have created new
 versions of the file. Each time you created a new version of the file,
@@ -64,8 +63,7 @@ via the Wi-Fi in the building may be down. However, when we hear this,
 we understand what that person is saying even if that's not what they
 technically just said.
 
-![](./media/IntroductionToVersionControlAndGit/media/image2.jpg){width="3.652380796150481in"
-height="2.352586395450569in"}
+![](./media/IntroductionToVersionControlAndGit/media/image2.jpg)
 
 *Version control* is the broader concept of the two. It refers to any
 system that tracks changes to files overtime, allowing users to inspect
@@ -106,8 +104,7 @@ across the software development industry, and introduces the core
 concepts of version control. Because of this, Git is an excellent
 starting point for this course.
 
-![](./media/IntroductionToVersionControlAndGit/media/image3.gif){width="2.945945975503062in"
-height="2.2708333333333335in"}
+![](./media/IntroductionToVersionControlAndGit/media/image3.gif)
 
 ## Why Use Git
 
@@ -167,8 +164,7 @@ Think of Git like a shared Google Doc, but instead of just being able to
 share a text document you instead can share a multitude of different
 files with much more control.
 
-![](./media/IntroductionToVersionControlAndGit/media/image4.gif){width="3.050330271216098in"
-height="1.7142858705161854in"}
+![](./media/IntroductionToVersionControlAndGit/media/image4.gif)
 
 # Basic Git Terminology to Know
 
@@ -227,8 +223,7 @@ should understand before moving on to Git commands and workflows.
 - [Merge-]{.underline} The process of combining changes from one branch
   into another.
 
-> ![](./media/IntroductionToVersionControlAndGit/media/image5.gif){width="3.495237314085739in"
-> height="2.242777777777778in"}
+ ![](./media/IntroductionToVersionControlAndGit/media/image5.gif)
 
 # The Git Workflow Mental Model
 
@@ -259,5 +254,4 @@ checkpoint in a video game, where you can always revert to that save if
 need be, since the repository history now reflects how the repository
 looked at that time.
 
-![](./media/IntroductionToVersionControlAndGit/media/image6.png){width="6.5in"
-height="3.6277777777777778in"}
+![](./media/IntroductionToVersionControlAndGit/media/image6.png)

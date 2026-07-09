@@ -61,16 +61,14 @@ searching the term \`Power\`.)
 
 Get-CimInstance Win32_OperatingSystem \| Select-Object OSArchitecture
 
-![](./media/InstallingGit/media/image1.png){width="6.5in"
-height="0.8291666666666667in"}
+![](./media/InstallingGit/media/image1.png)
 
 This command will either return 64-bit like in my case or ARM64 if you
 have an ARM processor. If your output looks like mine, you will select
 the option that is circled in the image below. Otherwise, if it says
 ARM64 select the option below the circled option.
 
-![](./media/InstallingGit/media/image2.png){width="6.5in"
-height="2.95in"}
+![](./media/InstallingGit/media/image2.png)
 
 ### Step 2: Run the Installer
 
@@ -85,17 +83,13 @@ for installing Git. Some of the images have no explanation because they
 are relatively straightforward (such as agreeing to the privacy
 agreement). There will be explanations for less straightforward options!
 
-![](./media/InstallingGit/media/image3.png){width="3.9583333333333335in"
-height="3.080182633420822in"}
+![](./media/InstallingGit/media/image3.png)
 
-![](./media/InstallingGit/media/image4.png){width="3.9791666666666665in"
-height="3.100126859142607in"}
+![](./media/InstallingGit/media/image4.png)
 
-![](./media/InstallingGit/media/image5.png){width="3.9895833333333335in"
-height="3.084384295713036in"}
+![](./media/InstallingGit/media/image5.png)
 
-![](./media/InstallingGit/media/image6.png){width="4.0in"
-height="3.092438757655293in"}
+![](./media/InstallingGit/media/image6.png)
 
 We are going to make a change on this page by selecting the override the
 default branch name for new repositories. The default is to let Git
@@ -106,34 +100,26 @@ like we will be later, the default branch will be "main" by default. By
 making this change, we can ensure that our default branch is "main"
 regardless of how we create our repository.
 
-![](./media/InstallingGit/media/image7.png){width="3.260643044619423in"
-height="2.5208333333333335in"}
+![](./media/InstallingGit/media/image7.png)
 
-![](./media/InstallingGit/media/image8.png){width="3.251017060367454in"
-height="2.5104166666666665in"}
+![](./media/InstallingGit/media/image8.png)
 
-![](./media/InstallingGit/media/image9.png){width="3.207836832895888in"
-height="2.4895833333333335in"}
+![](./media/InstallingGit/media/image9.png)
 
 ![](./media/InstallingGit/media/image10.png){width="3.2796194225721784in"
-height="2.53125in"}![](./media/InstallingGit/media/image11.png){width="3.2645067804024497in"
-height="2.5208333333333335in"}
+height="2.53125in"}![](./media/InstallingGit/media/image11.png)
 
-![](./media/InstallingGit/media/image12.png){width="3.263888888888889in"
-height="2.5330850831146106in"}
+![](./media/InstallingGit/media/image12.png)
 
-![](./media/InstallingGit/media/image13.png){width="3.1660356517935258in"
-height="2.4583333333333335in"}
+![](./media/InstallingGit/media/image13.png)
 
-![](./media/InstallingGit/media/image14.png){width="3.176017060367454in"
-height="2.4583333333333335in"}
+![](./media/InstallingGit/media/image14.png)
 
 After you click install, you will need to wait until the installer has
 finished. You have successfully installed Git if you see this window at
 the end. You may click finish.
 
-![](./media/InstallingGit/media/image15.png){width="3.8020833333333335in"
-height="2.94581583552056in"}
+![](./media/InstallingGit/media/image15.png)
 
 Skip to the Verifying Installation Section!
 
@@ -144,15 +130,16 @@ Skip to the Verifying Installation Section!
 We will be downloading Git from the command line on Linux as it is the
 easiest way to do so.
 
-Navigate to your command line and use this command to both update your
-package installer as well as install Git.
+Navigate to your command line and use your package manager for whatever version of Linux you are using.
+I'm using Kali Linux here, so this is my command. 
 
 sudo apt update && sudo apt install git
 
-![](./media/InstallingGit/media/image16.png){width="3.6041666666666665in"
-height="2.6757852143482066in"}
+You can use something like ChatGPT if you don't know the equivalent of "apt" on your Linux distro.
 
-There can type "y" whenever it prompts you to for permission to do
+![](./media/InstallingGit/media/image16.png)
+
+You can type "y" whenever it prompts you for permission to do
 something during the installation. It may also ask you if it is allowed
 to restart some services that are affected by the installation, to which
 you should select yes as well.
@@ -193,8 +180,7 @@ git \--version
 If you see the word git followed by a version number, you know that you
 have Git installed.
 
-![](./media/InstallingGit/media/image17.png){width="3.4796522309711286in"
-height="0.6146686351706037in"}
+![](./media/InstallingGit/media/image17.png)
 
 ## Configuring Your Git Username and Email Address
 
@@ -245,8 +231,7 @@ git config \--global user.name
 
 This is what your console should look like:
 
-![](./media/InstallingGit/media/image18.png){width="3.969304461942257in"
-height="1.0313943569553805in"}
+![](./media/InstallingGit/media/image18.png)
 
 ## Setting Your Email
 

@@ -1,5 +1,7 @@
 ## Table of Contents
 
+> These are in order of how you should read each document.
+
 - [Introduction to Version Control and Git] (#Lesson)
     - Version Control vs Source Control
     - Why Use Git

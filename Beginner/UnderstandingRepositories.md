@@ -46,8 +46,7 @@ But we are getting ahead of ourselves. Before learning about how Git
 tracks those changes, we need to understand what a repository is and how
 we create one.
 
-![](./media/UnderstandingRepositories/media/image1.gif){width="2.40625in"
-height="1.6813549868766404in"}
+![](./media/UnderstandingRepositories/media/image1.gif)
 
 ## What is a Repository?
 
@@ -133,8 +132,7 @@ Benefits of a remote repository include:
 
 - Centralized project management.
 
-![](./media/UnderstandingRepositories/media/image2.gif){width="2.5in"
-height="1.8661975065616798in"}
+![](./media/UnderstandingRepositories/media/image2.gif)
 
 ## Quick Recap of Local Repository vs Remote Repository
 

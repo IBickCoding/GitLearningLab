@@ -43,8 +43,7 @@ If you do not already have a GitHub account, we will need to create one
 by visiting the website [www.github.com](http://www.github.com). Go to
 the top right and click on the option for signing up.
 
-![](./media/RemoteRepositories/media/image1.png){width="6.5in"
-height="0.8708333333333333in"}
+![](./media/RemoteRepositories/media/image1.png)
 
 ### Step 2:
 
@@ -56,16 +55,14 @@ name, as you may use this account in the future for employers if you
 decide you want to have an online portfolio of your work. You may be
 prompted to go to your email to paste in the verification code.
 
-![](./media/RemoteRepositories/media/image2.png){width="3.0in"
-height="3.766839457567804in"}
+![](./media/RemoteRepositories/media/image2.png)
 
 ### Step 3:
 
 Sign in with your newly created credentials. You should see a green
 notification telling you that your account was created successfully.
 
-![](./media/RemoteRepositories/media/image3.png){width="2.9895833333333335in"
-height="2.2914359142607172in"}
+![](./media/RemoteRepositories/media/image3.png)
 
 ## Creating a Remote Repository and Linking the Local Repository
 
@@ -76,8 +73,7 @@ get our remote repository set up to connect to our local repository. To
 do this we need to click on the create "+" button in the top right of
 the screen and then select "New Repository".
 
-![](./media/RemoteRepositories/media/image4.png){width="6.5in"
-height="1.1541666666666666in"}
+![](./media/RemoteRepositories/media/image4.png)
 
 ### Step 2:
 
@@ -92,8 +88,7 @@ Later, if you want other people to see your work you can change the
 visibility to public. Then leave everything else set to no or off so
 that we start with a completely empty repository.
 
-![](./media/RemoteRepositories/media/image5.png){width="3.3252252843394574in"
-height="3.1770833333333335in"}
+![](./media/RemoteRepositories/media/image5.png)
 
 ### Step 3:
 
@@ -107,11 +102,9 @@ the "Open Git Bash Here" option like we did before. In the command line
 that opens up, you need to right click and press paste. Using the
 shortcut to paste with "ctrl+v" does not work here.
 
-![](./media/RemoteRepositories/media/image6.png){width="4.488451443569554in"
-height="2.9270833333333335in"}
+![](./media/RemoteRepositories/media/image6.png)
 
-![](./media/RemoteRepositories/media/image7.png){width="3.40625in"
-height="2.1740758967629046in"}
+![](./media/RemoteRepositories/media/image7.png)
 
 ### Step 4:
 
@@ -119,8 +112,7 @@ Once we do this, some magic will happen in the command line and if you
 have followed everything in the guide properly, we can refresh our web
 browser and see our work has been "pushed" to the remote repository.
 
-![](./media/RemoteRepositories/media/image8.png){width="5.739583333333333in"
-height="3.069695975503062in"}
+![](./media/RemoteRepositories/media/image8.png)
 
 ------------------------------------------------------------------------
 
@@ -134,8 +126,7 @@ changes from, and the bottom link is the repository that you will push
 changes to. Yes, these can be different for more advanced workflows but
 for now they should be the same.
 
-![](./media/RemoteRepositories/media/image9.png){width="4.865262467191601in"
-height="1.3231014873140858in"}
+![](./media/RemoteRepositories/media/image9.png)
 
 ## Difference Between Local and Remote Repository
 
@@ -178,8 +169,7 @@ remote repository we use the command git push origin main. This tells
 Git to push our work to the linked remote repository on the main branch
 (we have just one branch named main at the moment).
 
-![](./media/RemoteRepositories/media/image10.png){width="5.135416666666667in"
-height="4.218064304461942in"}
+![](./media/RemoteRepositories/media/image10.png)
 
 ## 
 
@@ -194,8 +184,7 @@ First, make some changes to one of the existing files in the local
 repository and then save it. I made changes to the gitFun.txt file and
 then saved the changes.
 
-![](./media/RemoteRepositories/media/image11.png){width="4.896516841644795in"
-height="1.8440069991251093in"}
+![](./media/RemoteRepositories/media/image11.png)
 
 ### Step 2:
 
@@ -207,8 +196,7 @@ to reinforce the fact that there has been no changes to the remoter
 repository yet because we have not told Git to synchronize them through
 a push.
 
-![](./media/RemoteRepositories/media/image12.png){width="6.5in"
-height="3.2270833333333333in"}
+![](./media/RemoteRepositories/media/image12.png)
 
 ### 
 
@@ -223,8 +211,7 @@ check the remote repository to see that the changes (although committed
 locally) have not been made to our remote repository because we have not
 pushed them yet.
 
-![](./media/RemoteRepositories/media/image13.png){width="5.305147637795276in"
-height="3.0833333333333335in"}
+![](./media/RemoteRepositories/media/image13.png)
 
 ### Step 4:
 
@@ -237,11 +224,9 @@ the commit message next to the gitFun.txt file is different from the
 initial commit message and instead reflects the message we used in the
 commit step.
 
-![](./media/RemoteRepositories/media/image14.png){width="4.260416666666667in"
-height="3.445657261592301in"}
+![](./media/RemoteRepositories/media/image14.png)
 
-![](./media/RemoteRepositories/media/image15.png){width="6.5in"
-height="3.2111111111111112in"}
+![](./media/RemoteRepositories/media/image15.png)
 
 We can now access this file from anywhere in the world on any device as
 long as we can sign in to our GitHub profile.
@@ -267,8 +252,7 @@ computer. To do this, I need to be on the remote repository webpage and
 click on the green "Code" dropdown button. I then want to press the copy
 to clipboard button for the link to this repository.
 
-![](./media/RemoteRepositories/media/image16.png){width="6.5in"
-height="3.2729166666666667in"}
+![](./media/RemoteRepositories/media/image16.png)
 
 I then want to right click on an empty space on my desktop and use the
 "Open Git Bash Here" option. I will then use the command git clone
@@ -282,8 +266,7 @@ left of the below picture. You can remedy this by making a temporary
 folder and opening a Git Bash terminal there. Then you use the same
 command, and it should clone into that file path as it is different.
 
-![](./media/RemoteRepositories/media/image17.png){width="6.5in"
-height="3.1430555555555557in"}
+![](./media/RemoteRepositories/media/image17.png)
 
 You can check the repository if you'd like, and you will see that the
 files are exactly the same as they are in the current state of the

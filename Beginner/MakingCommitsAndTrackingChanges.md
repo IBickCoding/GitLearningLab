@@ -84,8 +84,7 @@ changed! Instead of the status telling us that we have untracked files,
 git is now tracking these files and instead telling us that we have 3
 new files to be committed.
 
-![](./media/MakingCommitsAndTrackingChanges/media/image1.png){width="6.5in"
-height="2.557638888888889in"}
+![](./media/MakingCommitsAndTrackingChanges/media/image1.png)
 
 ### Step 2: Commit the Files
 
@@ -95,8 +94,7 @@ our first commit, it is customary to use the commit message "initial
 commit". After your first commit, typically your commit message is a
 very short description of the changes you have made.
 
-![](./media/MakingCommitsAndTrackingChanges/media/image2.png){width="6.5in"
-height="2.5701388888888888in"}
+![](./media/MakingCommitsAndTrackingChanges/media/image2.png)
 
 After we have committed, you will get output that gives you a quick
 summary of the actions that were done in this commit. The output tells
@@ -118,8 +116,7 @@ But for a repository that has had a lot of commits, such as the one
 hosting this course, it is quite extensive. Below is an image of this
 course:
 
-![](./media/MakingCommitsAndTrackingChanges/media/image3.png){width="4.177083333333333in"
-height="3.8812062554680664in"}
+![](./media/MakingCommitsAndTrackingChanges/media/image3.png)
 
 ## How Git Tracks Changes Over Time
 
