@@ -136,15 +136,9 @@ Benefits of a remote repository include:
 
 ## Quick Recap of Local Repository vs Remote Repository
 
-  -----------------------------------------------------------------------
-  **Local Repository**                **Remote Repository**
-  ----------------------------------- -----------------------------------
-  Stored on your system               Stored on another system
-
-  Works without internet              Requires internet access
-
-  Used for private development        Used for collaborative development
-                                      or public distribution
-
-  Private by default                  Can be shared with others or not.
-  -----------------------------------------------------------------------
+  | **Local Repository** | **Remote Repository** |
+  |----------------------|-----------------------|
+  | Stored on your system | Stored on another system |
+  | Works without internet | Requires internet access |
+  | Used for private development | Used for collaborative development or public distribution |
+  | Private by default | Can be shared with others or not. |
