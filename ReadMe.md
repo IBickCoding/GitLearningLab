@@ -55,24 +55,29 @@ Intended for learners who have a basic understanding of Git commands, everyday G
 > Understand Git internals, complex workflows, and recovery techniques. 
     
 **Topics**
-- DAGs
 - Understanding the Git Object Database
 - Understanding How Git Stores Data 
+- DAGs
 - Understanding HEAD 
 - Understanding References and Tags 
 - Detached HEAD States
 - GitHub Essentials
 - Collaboration Basics
+- Remote Repository Management
 - Pull --> Add --> Commit --> Push Workflow
+- Understanding Basic Merge Conflict Resolution
 - Stashing and Ignoring files.
 - Personal Access Tokens
-- Rewriting Repository History 
+- Rewriting Repository History
+- Ammending Commits
 - Interactive Rebasing 
 - Squashing Commits 
 - Cherry-Picking Changes 
-- Reverting to Prior Commits 
+- Reverting to Prior Commits
+- Git Reset
 - Recovering Lost Work
-- Repository Maintenance 
+- Repository Maintenance
+- Git Clean
 
 
 ### Advanced
@@ -87,7 +92,7 @@ Intended for learners who are comfortable using Git independently, collaborative
 - Feature Development 
 - Merging Branches
 - Advanced Merging Strategies 
-- Resolving Conflicts 
+- Advanced Conflict Resolution 
 - Pull Requests 
 - Code Reviews 
 - Team Collaboration Workflows 
@@ -95,7 +100,6 @@ Intended for learners who are comfortable using Git independently, collaborative
 - Contributing to Open Source Projects
 - Team Development Strategies 
 - Git Flow and Alternative Workflows 
-- Repository Management 
 - Monorepositories 
 - Branch Protection Rules 
 - Release Management 
