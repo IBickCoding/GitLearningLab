@@ -19,18 +19,17 @@ Choose the learning path that best describes your experience level:
 | Never used Git before | Beginner |
 | Familiar with basic Git commands | Intermediate |
 | Comfortable with branching and collaboration | Advanced |
-| Experienced developer or team lead | Professional |
 
 Although not required, you are encouraged to progress through the material in order. Concepts introduced in earlier sections are often referenced and expanded upon in later lessons.
 
 ## Skill Levels
 
 ### Beginner
-Intended for those who have never used Git before and are new to version control and source control concepts. This is ideal if you are unfamiliar with basic command line control as well.
+Intended for those who have never used Git before and are new to version control and source control concepts. This is ideal if you are unfamiliar with basic command line control.
     
 **Goal** 
     
-Learn basic Git usage, command line control of GitBash, and individual workflows.
+> Learn basic Git usage, command line control of Git Bash, and individual workflows.
     
 **Topics**
 
@@ -53,10 +52,17 @@ Intended for learners who have a basic understanding of Git commands, everyday G
     
 **Goal** 
     
-Understand Git internals, complex workflows, and recovery techniques. 
+> Understand Git internals, complex workflows, and recovery techniques. 
     
-**Topics** 
+**Topics**
+- DAGs
+- Understanding the Git Object Database
+- Understanding How Git Stores Data 
+- Understanding HEAD 
+- Understanding References and Tags 
+- Detached HEAD States
 - GitHub Essentials
+- Collaboration Basics
 - Pull --> Add --> Commit --> Push Workflow
 - Stashing and Ignoring files.
 - Personal Access Tokens
@@ -65,44 +71,28 @@ Understand Git internals, complex workflows, and recovery techniques.
 - Squashing Commits 
 - Cherry-Picking Changes 
 - Reverting to Prior Commits 
-- Recovering Lost Work 
-- Understanding How Git Stores Data 
-- Understanding HEAD 
-- Understanding References and Tags 
-- Detached HEAD States 
-- Advanced Merge Strategies 
+- Recovering Lost Work
 - Repository Maintenance 
-- Understanding the Git Object Database
 
 
 ### Advanced
-Intended for college level juniors and seniors who want to explore more advanced features, understand the inner workings of Git, and become familiar with common development workflows used in professional environments.
+Intended for learners who are comfortable using Git independently, collaboratively, and are ready to learn professional Git and GitHub workflows.
 
 **Goal** 
-    
-Work comfortably on multi-feature projects while collaborating with others. 
+
+> Collaborate with others on multi-feature projects
     
 **Topics** 
 - Creating Branches 
 - Feature Development 
-- Merging Branches 
+- Merging Branches
+- Advanced Merging Strategies 
 - Resolving Conflicts 
-- Cloning Repositories  
-- Remote Repositories 
 - Pull Requests 
 - Code Reviews 
 - Team Collaboration Workflows 
 - Forking Repositories 
 - Contributing to Open Source Projects
-
-### Professional
-Intended for software developers and other industry professionals that are already familiar with Git but are looking to find new ways to strengthen their skills or learn new workflows. This level will focus on learning new collaboration strategies, repository management, and best practices.
-
-**Goal** 
-    
-Manage large repositories, teams, automations, and enterprise level workflows. 
-
-**Topics** 
 - Team Development Strategies 
 - Git Flow and Alternative Workflows 
 - Repository Management 
