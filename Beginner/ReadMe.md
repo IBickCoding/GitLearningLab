@@ -2,56 +2,64 @@
 
 > These are in order of how you should read each document.
 
-- [Introduction to Version Control and Git] (#Lesson)
-    - Version Control vs Source Control
-    - Why Use Git
-    - Why Git Matters
-    - Benefits of Using Git
-    - Basic Git Terminology
-    - The Git Workflow Mental Model
+### [Introduction to Version Control and Git](IntroductionToVersionControlAndGit.md)
 
-- [Installing Git] (#Tutorial)
-    - Installing Git on Windows, Linux, and MacOS
-    - Verifying Version and Installation
-    - Configuring Your Git Username and Email Address
+- Version Control vs Source Control
+- Why Use Git
+- Why Git Matters
+- Benefits of Using Git
+- Basic Git Terminology
+- The Git Workflow Mental Model
 
-- [Understanding Repositories] (#Lesson)
-    - What is a Repository?
-    - Understanding Local Repositories
-    - Understanding Remote Repositories
+### [Installing Git](InstallingGit.md)
 
-- [Creating Your First Repository] (#Tutorial)
-    - Creating a Local Repository
-    - The .git Folder
-    - Viewing Hidden Files
-    - Hands-On Guided Activity
+- Installing Git on Windows, Linux, and MacOS
+- Verifying Version and Installation
+- Configuring Your Git Username and Email Address
 
-- [Making Commits and Tracking Changes] (#Tutorial)
-    - The Working Directory
-    - The Staging Area
-    - Commits
-    - Full Mental Workflow Order
-    - Hands-On Guided Activity
-    - How Git Tracks Changes Over Time
+### [Understanding Repositories](UnderstandingRepositories.md)
 
-- [Remote Repositories] (#Tutorial)
-    - Creating a GitHub Account
-    - Creating a Remote Repository and Linking a Local Repository
-    - Verify Link Between Remote and Local Repositories
-    - Difference Between Local and Remote Respositories
-    - Hands-On Example
-    - Cloning a Remote Repository
+- What is a Repository?
+- Understanding Local Repositories
+- Understanding Remote Repositories
 
-- [Git Cheat Sheet] (#CheatSheet)
-    - Command Line Control of Git
+### [Creating Your First Repository](CreatingYourFirstRepository.md)
 
-- [Beginner Git Learning Lab Assignment] (#Assignment)
-    - This assignment covers creating a local and remote repository, linking them, making adding/committing/pushing changes, and a knowledge check.
+- Creating a Local Repository
+- The .git Folder
+- Viewing Hidden Files
+- Hands-On Guided Activity
 
-- [Git Beginner Pre/Post Assessment] (#Assessment) (#Educators)
-    - This assessment is designed to be used both before learners go through the course and after to measure comprehension.
+### [Making Commits and Tracking Changes](MakingCommitsAndTrackingChanges.md)
 
-- [Git Fundamentals Kahoot] (#Assessment) (#Educators)
-    - Link: https://create.kahoot.it/share/git-version-control-fundamentals/9d15fa52-1ba3-4f37-b3e7-dc549be3c4fe
-    - (To be used for pre/post assessment by educators to determine comprehension of concepts covered.)
-    
+- The Working Directory
+- The Staging Area
+- Commits
+- Full Mental Workflow Order
+- Hands-On Guided Activity
+- How Git Tracks Changes Over Time
+
+### [Remote Repositories](RemoteRepositories.md)
+
+- Creating a GitHub Account
+- Creating a Remote Repository and Linking a Local Repository
+- Verify Link Between Remote and Local Repositories
+- Difference Between Local and Remote Repositories
+- Hands-On Example
+- Cloning a Remote Repository
+
+### [Git Cheat Sheet](GitCheatSheet.md)
+
+- Command Line Control of Git
+
+### [Beginner Git Learning Lab Assignment](BeginnerGitLearningLabAssignment.md)
+
+- This assignment covers creating a local and remote repository, linking them, making adding/committing/pushing changes, and a knowledge check.
+
+### [Git Beginner Pre/Post Assessment](GitBeginnerPrePostAssessment.md)
+
+- This assessment is designed to be used both before learners go through the course and after to measure comprehension.
+
+### [Git Fundamentals Kahoot](https://create.kahoot.it/share/git-version-control-fundamentals/9d15fa52-1ba3-4f37-b3e7-dc549be3c4fe)
+
+- (To be used for pre/post assessment by educators to determine comprehension of concepts covered.)
