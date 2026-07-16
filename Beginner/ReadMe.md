@@ -1,8 +1,8 @@
 ## Table of Contents
 
-> These are in order of how you should read each document.
+> Each title is clickable and will bring you to the specific document in browser. They appear in the order they are designed to be read in.
 
-### [Introduction to Version Control and Git](IntroductionToVersionControlAndGit.md)
+### [Introduction to Version Control and Git](MdFileVersions/IntroductionToVersionControlAndGit.md)
 
 - Version Control vs Source Control
 - Why Use Git
@@ -11,26 +11,26 @@
 - Basic Git Terminology
 - The Git Workflow Mental Model
 
-### [Installing Git](InstallingGit.md)
+### [Installing Git](MdFileVersions/InstallingGit.md)
 
 - Installing Git on Windows, Linux, and MacOS
 - Verifying Version and Installation
 - Configuring Your Git Username and Email Address
 
-### [Understanding Repositories](UnderstandingRepositories.md)
+### [Understanding Repositories](MdFileVersions/UnderstandingRepositories.md)
 
 - What is a Repository?
 - Understanding Local Repositories
 - Understanding Remote Repositories
 
-### [Creating Your First Repository](CreatingYourFirstRepository.md)
+### [Creating Your First Repository](MdFileVersions/CreatingYourFirstRepository.md)
 
 - Creating a Local Repository
 - The .git Folder
 - Viewing Hidden Files
 - Hands-On Guided Activity
 
-### [Making Commits and Tracking Changes](MakingCommitsAndTrackingChanges.md)
+### [Making Commits and Tracking Changes](MdFileVersions/MakingCommitsAndTrackingChanges.md)
 
 - The Working Directory
 - The Staging Area
@@ -39,7 +39,7 @@
 - Hands-On Guided Activity
 - How Git Tracks Changes Over Time
 
-### [Remote Repositories](RemoteRepositories.md)
+### [Remote Repositories](MdFileVersions/RemoteRepositories.md)
 
 - Creating a GitHub Account
 - Creating a Remote Repository and Linking a Local Repository
@@ -48,15 +48,15 @@
 - Hands-On Example
 - Cloning a Remote Repository
 
-### [Git Cheat Sheet](GitCheatSheet.md)
+### [Git Cheat Sheet](MdFileVersions/GitCheatSheet.md)
 
 - Command Line Control of Git
 
-### [Beginner Git Learning Lab Assignment](BeginnerGitLearningLabAssignment.md)
+### [Beginner Git Learning Lab Assignment](MdFileVersions/BeginnerGitLearningLabAssignment.md)
 
 - This assignment covers creating a local and remote repository, linking them, making adding/committing/pushing changes, and a knowledge check.
 
-### [Git Beginner Pre/Post Assessment](GitBeginnerPrePostAssessment.md)
+### [Git Beginner Pre/Post Assessment](MdFileVersions/GitBeginnerPrePostAssessment.md)
 
 - This assessment is designed to be used both before learners go through the course and after to measure comprehension.
 
