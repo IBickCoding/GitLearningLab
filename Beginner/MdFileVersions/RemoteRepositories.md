@@ -198,10 +198,6 @@ a push.
 
 ![](./media/RemoteRepositories/media/image12.png)
 
-### 
-
-### 
-
 ### Step 3:
 
 We will then commit the changes that we have made with the command git

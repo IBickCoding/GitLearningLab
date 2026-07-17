@@ -27,7 +27,7 @@ repository. We then used the command line to create 2 files and a folder
 in the repository. When we used git status, we saw that the files were
 being detected but had not been added or committed.
 
-In this lesson, we will work all the way through the Git Mental Workflow
+In this lesson, we will work continue to work through the Git Mental Workflow
 Model that we went over in one of the first lessons of the Beginner
 section. To refresh, the model flows as such:
 

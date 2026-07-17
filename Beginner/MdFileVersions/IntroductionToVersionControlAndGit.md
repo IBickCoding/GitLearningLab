@@ -126,7 +126,6 @@ you want to keep your files off the cloud, but if you lose your USB, you
 lose all your work. Instead, when we get to remote repositories, you can
 have your files anywhere without the need for a physical medium.
 
-## 
 
 ## Benefits for Individuals
 
