@@ -173,43 +173,43 @@ will be using throughout this series of guides. This is not an
 exhaustive list, but it does cover the bare minimum concepts that you
 should understand before moving on to Git commands and workflows.
 
-- [Repository (Repo)-]{.underline} A project folder that contains all
+- [Repository (Repo)-] A project folder that contains all
   files being tracked by Git along with its history. Think of a
   repository as a filing cabinet, in which it may contain loose files or
   folders.
 
-- [Working Directory-]{.underline} The files and folders you are
+- [Working Directory-] The files and folders you are
   currently editing on your computer. A good example of this is if you
   are working under the user John and you are in the Downloads folder,
   your working directory would look similar to
   "C:\\Users\\John\\Downloads".
 
-- [Commit-]{.underline} A snapshot of your project as it exists at that
+- [Commit-] A snapshot of your project as it exists at that
   specific time. We will go over commits soon but think of it as taking
   a picture of how your working directory or repository looks at that
   exact time that you make the commit. Commits typically have an
   identifier associated with them such as a series of numbers so that
   you can reference them later if need be.
 
-- [Branch-]{.underline} A branch is a line of development for a project.
+- [Branch-] A branch is a line of development for a project.
   In the beginner course we will mostly work on a single branch to keep
   things simple, but later we will move on to more advanced workflows
   that may have several branches coming off the main/master branch.
 
-- [Main/Master Branch-]{.underline} The primary branch of a repository.
+- [Main/Master Branch-] The primary branch of a repository.
   The main and master branch are the same thing, just named differently
   depending on configuration settings.
 
-- [Remote Repository-]{.underline} A copy of a repository hosted
+- [Remote Repository-] A copy of a repository hosted
   somewhere else typically using cloud services, such as GitHub,
   Bitbucket, etc. Think of it as an exact copy of your filing cabinet
   over the cloud that can be accessed in other locations than where the
   physical filing cabinet resides.
 
-- [Clone-]{.underline} A local copy of a repository that was downloaded
+- [Clone-] A local copy of a repository that was downloaded
   from a remote repository.
 
-- [Staging Area-]{.underline} A temporary holding area where changes,
+- [Staging Area-] A temporary holding area where changes,
   new files, or instructions to delete a file are prepared before
   committing those changes to the repository. Think of it as a gate at
   an airport, you stage all the humans at the gate and then load
@@ -217,9 +217,9 @@ should understand before moving on to Git commands and workflows.
   note is that changes made to the staging area are not yet part of the
   repository's history until a commit is made.
 
-- [History-]{.underline} The record of all commits made to a repository.
+- [History-] The record of all commits made to a repository.
 
-- [Merge-]{.underline} The process of combining changes from one branch
+- [Merge-] The process of combining changes from one branch
   into another.
 
  ![](./media/IntroductionToVersionControlAndGit/media/image5.gif)

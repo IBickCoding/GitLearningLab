@@ -13,8 +13,10 @@
 
 ### [Installing Git](MdFileVersions/InstallingGit.md)
 
-- [Installing Git on Windows, Linux, and MacOS](MdFileVersions/InstallingGit.md#installing-git-on-windows-linux-and-macos)
-- [Verifying Version and Installation](MdFileVersions/InstallingGit.md#verfication-of-installation)
+- [Installing Git on Windows](MdFileVersions/InstallingGit.md#windows-installation)
+- [Installing Git on Linux](MdFileVersions/InstallingGit.md#linux-installation)
+- [Installing Git on MacOS](MdFileVersions/InstallingGit.md#macos-installation)
+- [Verifying Version and Installation](MdFileVersions/InstallingGit.md#verification-of-installation)
 - [Configuring Your Git Username and Email Address](MdFileVersions/InstallingGit.md#configuring-your-git-username-and-email-address)
 
 ### [Understanding Repositories](MdFileVersions/UnderstandingRepositories.md)
@@ -42,7 +44,7 @@
 
 - [Creating a GitHub Account](MdFileVersions/RemoteRepositories.md#creating-a-github-account)
 - [Creating a Remote Repository and Linking a Local Repository](MdFileVersions/RemoteRepositories.md#creating-a-remote-repository-and-linking-the-local-repository)
-- [Verify Link Between Remote and Local Repositories](MdFileVersions/RemoteRepositories.md#verify-link-between-remote-and-local-repository)
+- [Verify Link Between Remote and Local Repositories](MdFileVersions/RemoteRepositories.md#verify-link-between-local-and-remote-repository)
 - [Difference Between Local and Remote Repositories](MdFileVersions/RemoteRepositories.md#difference-between-local-and-remote-repository)
 - [Hands-On Example](MdFileVersions/RemoteRepositories.md#hands-on-example)
 - [Cloning a Remote Repository](MdFileVersions/RemoteRepositories.md#cloning-a-repository)
