@@ -2,7 +2,7 @@
 
 > To navigate, simply click on the title or topic below. Each document is in the order in which they should be read.
 
-- ### [Git Internals] (MdFileVersions/GitInternals.md)
+- ### [Git Internals](MdFileVersions/GitInternals.md)
     - [Git vs Traditional Version Control Systems](MdFileVersions/GitInternals.md#git-vs-traditional-version-control-systems)
     - [Git as a Content-Addressable File System](MdFileVersions/GitInternals.md#git-as-a-content-addressable-filesystem)
     - [Understanding the Git Object Database](MdFileVersions/GitInternals.md#understanding-the-git-object-database)
