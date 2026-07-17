@@ -24,7 +24,7 @@ Although not required, you are encouraged to progress through the material in or
 
 ## Skill Levels
 
-### Beginner
+### [Beginner](Beginner/)
 Intended for those who have never used Git before and are new to version control and source control concepts. This is ideal if you are unfamiliar with basic command line control.
     
 **Goal** 
@@ -47,7 +47,7 @@ Intended for those who have never used Git before and are new to version control
 - Committing Changes
 - Remote Repositories
 
-### Intermediate
+### [Intermediate](Intermediate/)
 Intended for learners who have a basic understanding of Git commands, everyday Git workflows, and are ready to collaborate with others on projects.
     
 **Goal** 
@@ -80,7 +80,7 @@ Intended for learners who have a basic understanding of Git commands, everyday G
 - Git Clean
 
 
-### Advanced
+### [Advanced](Advanced/)
 Intended for learners who are comfortable using Git independently, collaboratively, and are ready to learn professional Git and GitHub workflows.
 
 **Goal** 
