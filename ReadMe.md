@@ -16,9 +16,9 @@ Choose the learning path that best describes your experience level:
 
 | Experience Level | Recommended Starting Point |
 |-----------------|----------------------------|
-| Never used Git before | Beginner |
-| Familiar with basic Git commands | Intermediate |
-| Comfortable with branching and collaboration | Advanced |
+| Never used Git before | [Beginner](#beginner) |
+| Familiar with basic Git commands | [Intermediate](#intermediate) |
+| Comfortable with branching and collaboration | [Advanced](#advanced) |
 
 Although not required, you are encouraged to progress through the material in order. Concepts introduced in earlier sections are often referenced and expanded upon in later lessons.
 
