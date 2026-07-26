@@ -51,7 +51,17 @@
 
 ### [Git Cheat Sheet](MdFileVersions/GitCheatSheet.md)
 
-- Command Line Control of Git
+- [Repository Setup](MdFileVersions/GitCheatSheet.md#1-repository-setup)
+- [Inspect Repository](MdFileVersions/GitCheatSheet.md#2-inspect-repository)
+- [Stage Changes](MdFileVersions/GitCheatSheet.md#3-stage-changes)
+- [Commits](MdFileVersions/GitCheatSheet.md#4-commits)
+- [Branching](MdFileVersions/GitCheatSheet.md#5-branching)
+- [Remotes](MdFileVersions/GitCheatSheet.md#6-remotes)
+- [Stash](MdFileVersions/GitCheatSheet.md#7-stash)
+- [Undo Changes](MdFileVersions/GitCheatSheet.md#8-undo-changes)
+- [Commit History](MdFileVersions/GitCheatSheet.md#9-history)
+- [Tags](MdFileVersions/GitCheatSheet.md#10-tags)
+- [Git Internals](MdFileVersions/GitCheatSheet.md#11-git-internals)
 
 ### [Beginner Git Learning Lab Assignment](MdFileVersions/BeginnerGitLearningLabAssignment.md)
 
