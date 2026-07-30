@@ -1,0 +1,1 @@
+> This is the directory that hold all the MD file versions of the guides. It is recommended to access these MD files through the table of contents in the Advanced directory.
